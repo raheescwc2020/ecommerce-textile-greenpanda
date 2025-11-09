@@ -1,5 +1,5 @@
 // src/components/Header.js
-
+import "react-icons/fa"
 import React from 'react';
 import logo from '../assets/greenpanda_logo.png';
 import { FaUser, FaHeart, FaShoppingBag } from 'react-icons/fa';
